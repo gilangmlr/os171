@@ -20,3 +20,4 @@ drwxr-xr-x  2 gilang.gumilar StafCS 4096 Feb 17 23:38 week09
 drwxr-xr-x  2 gilang.gumilar StafCS 4096 Feb 17 23:39 week10
 drwxr-xr-x  2 gilang.gumilar StafCS 4096 Feb 17 23:40 xtra
 /home/fasilkom/mahasiswa/g/gilang.gumilar/os171/week01
+Today is 18 Feb 2017 at 00:10:37
