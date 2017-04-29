@@ -9,4 +9,12 @@ w07-170418-13-LR-Synchronization, From: Lecturer
 w07-170418-13-LR-Synchronization, From: Lecturer
 w07-170420-13-LR-Synchronization, From: Lecturer
 w07-170420-13-LR-Synchronization, From: Lecturer
-w07-170422-10-PSDo lav week07
+w07-170422-10-PS-Do lab week07
+w08-170425-13-LR-Scheduling, From: Lecturer
+w08-170425-13-LR-Scheduling, From: Lecturer
+w08-170427-13-LR-Socket, From: Lecturer
+w08-170427-13-LR-Socket, From: Lecturer
+w08-170428-18-PS-Do lab week08
+w08-170428-18-PS-Do lab week08
+w08-170429-13-PS-Do lab week08
+w08-170429-13-PS-Do lab week08
